@@ -1,2 +1,2 @@
-# IBM_Datascience_Cert
-Testing in IBM Data Science Professional Certificate.
+# IBM Data Science Professional Certificate.
+https://www.coursera.org/professional-certificates/ibm-data-science
